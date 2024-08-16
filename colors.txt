@@ -1,0 +1,39 @@
+Black, #000
+Blue, #000066
+
+Dropdown styling
+Background, #fff
+Border, #f0f0f0
+Hover, #f1f1f1
+
+
+Get Started Button
+Background, #000066
+Text, #fff
+
+
+Header
+Background, #fff
+Border, #f0f0f0
+Text, #000
+
+
+Footer
+Background #f8f9fa
+Border, #dee2e6
+Text, #000
+
+
+Accordion
+Closed button, #444
+Hover button, #ccc
+Open button, #ccc
+Background, #eee
+
+
+Value panels
+Title text, #000
+Description text, #666
+
+
+  
